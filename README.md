@@ -1,4 +1,4 @@
-# 🌐 Controle de Investimentos - Front-end
+# 🌐 Controle de Investimentos - Back-end
 
 ## 📑 Sumário
 - [Objetivos do Back-end](#-objetivos-do-back-end)
