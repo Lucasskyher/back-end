@@ -1,11 +1,11 @@
 # 🌐 Controle de Investimentos - Front-end
 
 ## 📑 Sumário
-- [Objetivos do Back-end](#-objetivos-do-projeto)
+- [Objetivos do Back-end](#-objetivos-do-back-end)
 - [Funcionalidades Principais](#-funcionalidades-principais)
 - [Validações](#-validações)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como Executar o Back-end](#-como-executar)
+- [Como Executar o Back-end](#-como-executar-o-back-end)
 - [Autor](#-autor)
 
 
