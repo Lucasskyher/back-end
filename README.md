@@ -32,6 +32,10 @@ O objetivo do back-end é fornecer uma API para gerenciar os investimentos. Ele 
 - *fs (File System)*: Usado para ler e escrever dados no arquivo db.json, que serve como banco de dados simples.
 
 ## 💻 Como Executar o Back-end:
+- *Clonar Repositório*: Abra o terminal ou prompt de comando, navegue até a pasta onde deseja clonar, e execute este comando:
+```sh
+git clone https://github.com/Lucasskyher/back-end
+```
 - *Instalar as Dependências*: Na pasta do back-end, instale as dependências necessárias com o comando:
 ```sh
 npm install
